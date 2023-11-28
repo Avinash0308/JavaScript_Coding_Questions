@@ -31,4 +31,4 @@ function deepEqual(obj1, obj2) {
   
   console.log(deepEqual(objA, objB)); // Output: true
   console.log(deepEqual(objA, objC)); // Output: false
-  
+  DAY
